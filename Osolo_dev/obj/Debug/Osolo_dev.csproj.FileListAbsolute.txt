@@ -1,0 +1,14 @@
+c:\users\russiantux\documents\visual studio 2013\Projects\Osolo_dev\Osolo_dev\bin\Debug\Osolo_dev.exe.config
+c:\users\russiantux\documents\visual studio 2013\Projects\Osolo_dev\Osolo_dev\bin\Debug\Osolo_dev.exe
+c:\users\russiantux\documents\visual studio 2013\Projects\Osolo_dev\Osolo_dev\bin\Debug\Osolo_dev.pdb
+c:\users\russiantux\documents\visual studio 2013\Projects\Osolo_dev\Osolo_dev\bin\Debug\EngineIoClientDotNet.dll
+c:\users\russiantux\documents\visual studio 2013\Projects\Osolo_dev\Osolo_dev\bin\Debug\Newtonsoft.Json.dll
+c:\users\russiantux\documents\visual studio 2013\Projects\Osolo_dev\Osolo_dev\bin\Debug\SocketIoClientDotNet.dll
+c:\users\russiantux\documents\visual studio 2013\Projects\Osolo_dev\Osolo_dev\bin\Debug\WebSocket4Net.dll
+c:\users\russiantux\documents\visual studio 2013\Projects\Osolo_dev\Osolo_dev\bin\Debug\Newtonsoft.Json.xml
+c:\users\russiantux\documents\visual studio 2013\Projects\Osolo_dev\Osolo_dev\obj\Debug\Osolo_dev.csprojResolveAssemblyReference.cache
+c:\users\russiantux\documents\visual studio 2013\Projects\Osolo_dev\Osolo_dev\obj\Debug\Osolo_dev.Form1.resources
+c:\users\russiantux\documents\visual studio 2013\Projects\Osolo_dev\Osolo_dev\obj\Debug\Osolo_dev.Properties.Resources.resources
+c:\users\russiantux\documents\visual studio 2013\Projects\Osolo_dev\Osolo_dev\obj\Debug\Osolo_dev.csproj.GenerateResource.Cache
+c:\users\russiantux\documents\visual studio 2013\Projects\Osolo_dev\Osolo_dev\obj\Debug\Osolo_dev.exe
+c:\users\russiantux\documents\visual studio 2013\Projects\Osolo_dev\Osolo_dev\obj\Debug\Osolo_dev.pdb
