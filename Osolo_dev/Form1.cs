@@ -32,28 +32,9 @@ namespace Osolo_dev
             //set the ip, gotta make it changeable.
             var socketip = IO.Socket("http://localhost:80");
 
-            socketip.On(Socket.EVENT_CONNECT, () =>
-                {
-                    ConnectionStatus("connected");
-                });
-
+           
 
         }
-        private void ConnectionStatus(string text)
-        {
-            if (this.textBox1.InvokeRequired)
-            {
-
-                UpdateTextBoxMethod del = new UpdateTextBoxMethod(ConnectionStatus);
-                this.Invoke(del, new object[] { "connected" });
-            }
-            else
-            {
-
-                UpdateTextBoxMethod del = new UpdateTextBoxMethod(ConnectionStatus);
-                this.Invoke(del, new object[] { "Not Connected" });
-
-            }
-        }
+       
     }
 }
